@@ -1,4 +1,6 @@
 
 public static void main(String[] args) {
-    FizzBuzz.printFizzBuzz_whileloop(100);
+    FizzBuzz.printFizzBuzz_forloop(100);
+
+    System
 }
